@@ -1,0 +1,19 @@
+#reciepe-page {
+  background: url(../../assets/recipepage.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+  color: #fff;
+}
+#reciepe-page .dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 760px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+#reciepe-page .cardbackgroundcolor {
+  background-color: rgba(0, 0, 0, 0.5);
+}

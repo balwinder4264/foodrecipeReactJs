@@ -1,0 +1,21 @@
+#footerbutton:hover {
+  background: white;
+  color: black;
+}
+
+#reciepe-section1 {
+  background: url(../../assets/food.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 845px;
+  color: #fff;
+}
+#reciepe-section1 .dark-overlay {
+  position: absolute;
+  top: 5;
+  left: 0;
+  width: 100%;
+  min-height: 760px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
