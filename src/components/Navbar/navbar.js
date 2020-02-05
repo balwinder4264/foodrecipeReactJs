@@ -46,7 +46,7 @@ const UnAuthUser = () => {
 
       <li className="nav-item">
         <NavLink to="/search" className="nav-link">
-          Search
+          Search1
         </NavLink>
       </li>
     </ul>
